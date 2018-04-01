@@ -1,0 +1,48 @@
+    {
+        "methods": [{
+                "id": 1,
+                "name_on_card": "JOHN DOE",
+                "card_type": "VISA",
+                "card_number": "4111 1111 1111 1111",
+                "expiry_date_month": 12,
+                "expiry_date_year": 12,
+                "card_security_code": "012"
+            },
+            {
+                "id": 2,
+                "name_on_card": "JANE DOE",
+                "card_type": "MASTER",
+                "card_number": "5555555555554444",
+                "expiry_date_month": 12,
+                "expiry_date_year": 17,
+                "card_security_code": "012"
+            },
+            {
+                "id": 3,
+                "name_on_card": "JOHN ROE",
+                "card_type": "AMEX",
+                "card_number": "378282246310005",
+                "expiry_date_month": 12,
+                "expiry_date_year": 18,
+                "card_security_code": "012"
+            },
+            {
+                "id": 4,
+                "name_on_card": "RICHARD DOE",
+                "card_type": "DISCOVER",
+                "card_number": "6011111111111117",
+                "expiry_date_month": 12,
+                "expiry_date_year": 20,
+                "card_security_code": "012"
+            },
+            {
+                "id": 5,
+                "name_on_card": "JANE ROE",
+                "card_type": "DINERS CLUB",
+                "card_number": "30569309025904",
+                "expiry_date_month": 12,
+                "expiry_date_year": 22,
+                "card_security_code": "012"
+            }
+        ]
+    }
